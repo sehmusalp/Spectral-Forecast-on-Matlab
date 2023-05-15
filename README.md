@@ -1,5 +1,5 @@
 # Spectral-Forecast-on-Matlab
-These files accompany the book entitled: 
+These files accompany the article entitled: 
 [Spectral forecast: A general purpose prediction model as an alternative to classical neural networks](https://pubs.aip.org/aip/cha/article/30/3/033119/1030813/Spectral-forecast-A-general-purpose-prediction)
 
 
